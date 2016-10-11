@@ -36,3 +36,7 @@ Thumbs.db
 #######################
 node_modules/
 bower_components/
+bower_components/
+build/
+tmp/
+.env
